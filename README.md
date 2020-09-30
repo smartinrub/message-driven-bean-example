@@ -1,0 +1,1 @@
+# message-driven-bean-example
